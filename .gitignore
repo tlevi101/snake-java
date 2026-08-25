@@ -1,0 +1,16 @@
+# Compiled output
+out/
+build/
+*.class
+
+# Packaged artifacts
+*.jar
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.ilk
+
+# OS / editor cruft
+.DS_Store
+*~
